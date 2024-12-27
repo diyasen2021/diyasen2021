@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diya
-- 👀 I’m interested in bioinformatics, data visualisation techniques, reproducible research methods
+- 👀 I’m an expert bioinformatician, with data analysis and data visualisation skills
 - 🌱 I build tools for automating systems and processes 
 - 💞️ I’m looking to collaborate on data visualisation, data integration and data analytics in science and tech
   
